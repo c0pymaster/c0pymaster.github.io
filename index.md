@@ -21,7 +21,7 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 --->
 
-## Publications
+## Papers
 
 - **On regularity of maximal distance minimizers in Euclidean Space**
   <br>
