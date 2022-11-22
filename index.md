@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a junior researcher at the Euler International Mathematical Institute in Saint Petersburg, Russia. I have recently completed my PhD at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), supervised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/).
+I am currently a junior researcher at the Euler International Mathematical Institute in Saint Petersburg, Russia. I have recently completed my PhD at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/).
 
 You can find my CV [here](https://c0pymaster.github.io/pdf/CV.pdf).
 
