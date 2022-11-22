@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a junior researcher at the Euler International Mathematical Institute in Saint Petersburg, Russia. I have recently completed my PhD at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), supervised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/).
 
-You can find my CV [here](http://localhost:4000/pdf/CV.pdf).
+You can find my CV [here](https://c0pymaster.github.io/pdf/CV.pdf).
 
 ## Research Interests
 
@@ -98,9 +98,9 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   a 3 semester undergraduate course on the "Modern Programming" bachelor programme
   <br>
   Lecture notes (in russian):
-  [[1 semester](http://localhost:4000/pdf/Algorithms_I.pdf)]
-  [[2 semester](http://localhost:4000/pdf/Algorithms_II.pdf)]
-  [[3 semester](http://localhost:4000/pdf/Algorithms_III.pdf)]
+  [[1 semester](https://c0pymaster.github.io/pdf/Algorithms_I.pdf)]
+  [[2 semester](https://c0pymaster.github.io/pdf/Algorithms_II.pdf)]
+  [[3 semester](https://c0pymaster.github.io/pdf/Algorithms_III.pdf)]
 
 
 <!---
