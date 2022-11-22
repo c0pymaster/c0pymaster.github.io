@@ -95,7 +95,7 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   <br>
   *Algorithms and Data Structures*
   <br>
-  a 3 semester undergraduate course on the "Modern Programming" bachelor programme
+  a 3 semester undergraduate course in "Modern Programming" bachelor programme
   <br>
   Lecture notes (in russian):
   [[1 semester](https://c0pymaster.github.io/pdf/Algorithms_I.pdf)]
