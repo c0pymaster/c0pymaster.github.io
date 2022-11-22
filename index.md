@@ -4,47 +4,108 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a junior researcher at the Euler International Mathematical Institute in Saint Petersburg, Russia. I have recently completed my PhD at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), supervised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/).
+
+You can find my CV [here](http://localhost:4000/pdf/CV.pdf).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+list colorings of graphs and hypergraphs, polynomial method in combinatorics, extremal hypergraph problems, maximal distance minimizers
 
+<!---
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+--->
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **On regularity of maximal distance minimizers in Euclidean Space**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **A. Gordeev**, Y. Teplitskaya
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  *[arXiv:2207.13745](https://arxiv.org/abs/2207.13745), 2022, submitted.*
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2207.13745.pdf)]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Erdős–Hajnal problem for H-free hypergraphs**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  D. Cherkashin, **A. Gordeev**, G. Strukov
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  *[arXiv:2207.05840](https://arxiv.org/abs/2207.05840), 2022, submitted.*
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://arxiv.org/pdf/2207.05840.pdf)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
+- **On list chromatic numbers of 2-colorable hypergraphs**
+  <br>
+  D. Cherkashin, **A. Gordeev**
+  <br>
+  *Proceedings of MIPT, 14(1), 49-57, 2022.*
+  <br>
+  [[PDF](https://mipt.ru/upload/medialibrary/745/05.pdf)] [[arXiv version](https://arxiv.org/abs/2102.02746)]
+
+- **Alon–Tarsi numbers of direct products**
+  <br>
+  F. Petrov, **A. Gordeev**
+  <br>
+  *Moscow Journal of Combinatorics and Number Theory 10(4), 271–279, 2021.*
+  <br>
+  [[Link](https://doi.org/10.2140/moscow.2021.10.271)] [[arXiv version](https://arxiv.org/abs/2007.07140)]
+  
+- **Maximal distance minimizers for a rectangle**
+  <br>
+  D. Cherkashin, **A. Gordeev**, G. Strukov, Y. Teplitskaya
+  <br>
+  *[arXiv:2106.00809](https://arxiv.org/abs/2106.00809), 2021, submitted.*
+  <br>
+  [[PDF](https://arxiv.org/pdf/2106.00809.pdf)]
+
+- **On minimizers of the maximal distance functional for a planar convex closed smooth curve**
+  <br>
+  D. Cherkashin, **A. Gordeev**, G. Strukov, Y. Teplitskaya
+  <br>
+  *[arXiv:2011.10463](https://arxiv.org/abs/2011.10463), 2020, submitted.*
+  <br>
+  [[PDF](https://arxiv.org/pdf/2011.10463.pdf)]
+
+- **The Alon–Tarsi Number of A Toroidal Grid**
+  <br>
+  Z. Li, Z. Shao, F. Petrov, **A. Gordeev**
+  <br>
+  *To appear in the special issue of the European Journal of Combinatorics dedicated to the 40th anniversary of the journal.*
+  <br>
+  [[arXiv version](https://arxiv.org/abs/1912.12466)]
+
+- **Constant terms of near-Dyson polynomials**
+  <br>
+  **A. Gordeev**
+  <br>
+  *The Electronic Journal of Combinatorics 25(4), 2018.*
+  <br>
+  [[PDF](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i4p11/pdf)] [[Link](https://doi.org/10.37236/7087)]
+
+
+## Teaching
+
+- **Lecturer at Saint Petersburg State University (Spring 2019 – Fall 2021)**
+  <br>
+  *Algorithms and Data Structures*
+  <br>
+  a 3 semester undergraduate course on the "Modern Programming" bachelor programme
+  <br>
+  Lecture notes (in russian):
+  [[1 semester](http://localhost:4000/pdf/Algorithms_I.pdf)]
+  [[2 semester](http://localhost:4000/pdf/Algorithms_II.pdf)]
+  [[3 semester](http://localhost:4000/pdf/Algorithms_III.pdf)]
+
+
+<!---
 ## Services
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV.
+--->

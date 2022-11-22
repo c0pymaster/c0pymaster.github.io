@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <!---<title>{{ site.title }} | {{site.affiliation}}</title>--->
+    <title>{{ site.title }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -34,17 +35,17 @@
         <h1>{{ site.title }}</h1> 
         
         {% if site.position %}
-        {{ site.position }}
+        <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {{ site.affiliation }}
+        {% if site.affiliation %}
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <br>
+        {% endif %}
         {% if site.email %}
-        <br>
-        {{ site.email }}
-        <br>
-        <br>
+        <email>{{ site.email }}</email>
         {% endif %}
-
+      
       </header>
       <section>
 
@@ -66,6 +67,11 @@
           {% if site.google_scholar %}
           <a href="{{ site.google_scholar}}" target="_blank">
             <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
+          </a>
+          {% endif %}
+          {% if site.cv_link %}
+          <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
+            <i class="ai ai-cv" style="font-size:1.3rem;"></i>
           </a>
           {% endif %}
           {% if site.github_link %}            
