@@ -97,7 +97,7 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   <br>
   a 3 semester undergraduate course in "Modern Programming" bachelor programme
   <br>
-  Lecture notes (in russian):
+  Lecture notes (in Russian):
   [[1 semester](https://c0pymaster.github.io/pdf/Algorithms_I.pdf)]
   [[2 semester](https://c0pymaster.github.io/pdf/Algorithms_II.pdf)]
   [[3 semester](https://c0pymaster.github.io/pdf/Algorithms_III.pdf)]
