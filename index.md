@@ -4,7 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am currently a junior researcher at the Euler International Mathematical Institute in Saint Petersburg, Russia. I have recently completed my PhD at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/).
+<!-- I am currently a junior researcher at the Euler International Mathematical Institute in Saint Petersburg, Russia. -->
+I completed my PhD in 2022 at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/). You can find my thesis (in Russian) [here](https://www.pdmi.ras.ru/pdmi/system/files/dissertations/gordeev_diss.pdf).
+
+After completing my PhD, I left Russia and am currenly residing in Lausanne, Switzerland with my wife who is enrolled in a PhD program at EPFL. I am treating this period of time as a gap year and an opportunity to pursue personal projects, visit colleagues in Europe and support my wife’s academic career.
 
 You can find my CV [here](https://c0pymaster.github.io/pdf/CV.pdf).
 
@@ -22,6 +25,14 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
 --->
 
 ## Papers
+
+- **The Alon–Tarsi Number of A Toroidal Grid**
+  <br>
+  Z. Li, Z. Shao, F. Petrov, **A. Gordeev**
+  <br>
+  *European Journal of Combinatorics, 103697, 2023.*
+  <br>
+  [[Link](https://doi.org/10.1016/j.ejc.2023.103697)][[arXiv version](https://arxiv.org/abs/1912.12466)]
 
 - **On regularity of maximal distance minimizers in Euclidean Space**
   <br>
@@ -71,14 +82,6 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   *[arXiv:2011.10463](https://arxiv.org/abs/2011.10463), 2020, submitted.*
   <br>
   [[PDF](https://arxiv.org/pdf/2011.10463.pdf)]
-
-- **The Alon–Tarsi Number of A Toroidal Grid**
-  <br>
-  Z. Li, Z. Shao, F. Petrov, **A. Gordeev**
-  <br>
-  *To appear in the special issue of the European Journal of Combinatorics dedicated to the 40th anniversary of the journal.*
-  <br>
-  [[arXiv version](https://arxiv.org/abs/1912.12466)]
 
 - **Constant terms of near-Dyson polynomials**
   <br>
