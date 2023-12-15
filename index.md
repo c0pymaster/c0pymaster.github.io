@@ -4,16 +4,15 @@ layout: homepage
 
 ## About Me
 
-<!-- I am currently a junior researcher at the Euler International Mathematical Institute in Saint Petersburg, Russia. -->
-I completed my PhD in 2022 at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/). You can find my thesis (in Russian) [here](https://www.pdmi.ras.ru/pdmi/system/files/dissertations/gordeev_diss.pdf).
+I am a postdoc at Umeå University, working with [Lars-Daniel Öhman](https://www.umu.se/en/staff/lars-daniel-ohman/).
 
-After completing my PhD, I left Russia and am currenly residing in Lausanne, Switzerland with my wife who is enrolled in a PhD program at EPFL. I am treating this period of time as a gap year and an opportunity to pursue personal projects, visit colleagues in Europe and support my wife’s academic career.
+I completed my PhD in 2022 at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/). You can find my thesis (in Russian) [here](https://www.pdmi.ras.ru/pdmi/system/files/dissertations/gordeev_diss.pdf).
 
 You can find my CV [here](https://c0pymaster.github.io/pdf/CV.pdf).
 
 ## Research Interests
 
-list colorings of graphs and hypergraphs, polynomial method in combinatorics, extremal hypergraph problems, maximal distance minimizers
+list colorings of graphs and hypergraphs, polynomial method in combinatorics, extremal hypergraph problems, maximal distance minimizers, row-column designs
 
 <!---
 ## News
@@ -26,30 +25,37 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
 
 ## Papers
 
+- **On regularity of maximal distance minimizers in R^n**
+  <br>
+  **A. Gordeev**, Y. Teplitskaya
+  <br>
+  *The Annali della Scuola Normale di Pisa - Classe di Scienze, 2023.*
+  <br>
+  [[Link](https://doi.org/10.2422/2036-2145.202208_004)] [[arXiv version](https://arxiv.org/abs/2207.13745)]
+
+- **Combinatorial Nullstellensatz and Turán numbers of complete r-partite r-uniform hypergraphs**
+  <br>
+  **A. Gordeev**
+  <br>
+  *[arXiv:2307.04447](https://arxiv.org/abs/2307.04447), 2023.*
+  <br>
+  [[PDF](https://arxiv.org/pdf/2307.04447.pdf)]
+
 - **The Alon–Tarsi Number of A Toroidal Grid**
   <br>
   Z. Li, Z. Shao, F. Petrov, **A. Gordeev**
   <br>
-  *European Journal of Combinatorics, 103697, 2023.*
+  *European Journal of Combinatorics, 111, 103697, 2023.*
   <br>
   [[Link](https://doi.org/10.1016/j.ejc.2023.103697)][[arXiv version](https://arxiv.org/abs/1912.12466)]
-
-- **On regularity of maximal distance minimizers in Euclidean Space**
-  <br>
-  **A. Gordeev**, Y. Teplitskaya
-  <br>
-  *[arXiv:2207.13745](https://arxiv.org/abs/2207.13745), 2022, submitted.*
-  <br>
-  [[PDF](https://arxiv.org/pdf/2207.13745.pdf)]
 
 - **Erdős–Hajnal problem for H-free hypergraphs**
   <br>
   D. Cherkashin, **A. Gordeev**, G. Strukov
   <br>
-  *[arXiv:2207.05840](https://arxiv.org/abs/2207.05840), 2022, submitted.*
+  *[arXiv:2207.05840](https://arxiv.org/abs/2207.05840), to appear in Graphs and Combinatorics.*
   <br>
   [[PDF](https://arxiv.org/pdf/2207.05840.pdf)]
-
 
 - **On list chromatic numbers of 2-colorable hypergraphs**
   <br>
@@ -71,7 +77,7 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   <br>
   D. Cherkashin, **A. Gordeev**, G. Strukov, Y. Teplitskaya
   <br>
-  *[arXiv:2106.00809](https://arxiv.org/abs/2106.00809), 2021, submitted.*
+  *[arXiv:2106.00809](https://arxiv.org/abs/2106.00809), 2021.*
   <br>
   [[PDF](https://arxiv.org/pdf/2106.00809.pdf)]
 
@@ -79,7 +85,7 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   <br>
   D. Cherkashin, **A. Gordeev**, G. Strukov, Y. Teplitskaya
   <br>
-  *[arXiv:2011.10463](https://arxiv.org/abs/2011.10463), 2020, submitted.*
+  *[arXiv:2011.10463](https://arxiv.org/abs/2011.10463), 2020.*
   <br>
   [[PDF](https://arxiv.org/pdf/2011.10463.pdf)]
 
