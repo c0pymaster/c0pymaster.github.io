@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoc at Umeå University, working with [Lars-Daniel Öhman](https://www.umu.se/en/staff/lars-daniel-ohman/).
+I am a [postdoc at Umeå University](https://www.umu.se/en/staff/aleksei-gordeev/), working with [Lars-Daniel Öhman](https://www.umu.se/en/staff/lars-daniel-ohman/).
 
 I completed my PhD in 2022 at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/). You can find my thesis (in Russian) [here](https://www.pdmi.ras.ru/pdmi/system/files/dissertations/gordeev_diss.pdf).
 
@@ -25,6 +25,23 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
 
 ## Papers
 
+- **Combinatorial Nullstellensatz and Turán numbers of complete r-partite r-uniform hypergraphs**
+  <br>
+  **A. Gordeev**
+  <br>
+  *Discrete Mathematics, 347(7), 114037, 2024.*
+  <br>
+  [[Link](https://doi.org/10.1016/j.disc.2024.114037)] [[arXiv version](https://arxiv.org/abs/2307.04447)]
+
+- **Erdős–Hajnal problem for H-free hypergraphs**
+  <br>
+  D. Cherkashin, **A. Gordeev**, G. Strukov
+  <br>
+  *Graphs and Combinatorics, 40(1), 1–15, 2024.*
+  <br>
+  [[Link](https://doi.org/10.1007/s00373-023-02737-6)] [[Full text view-only](https://rdcu.be/duCJS)] [[arXiv version](https://arxiv.org/abs/2207.05840)]
+
+
 - **On regularity of maximal distance minimizers in R^n**
   <br>
   **A. Gordeev**, Y. Teplitskaya
@@ -33,14 +50,6 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   <br>
   [[Link](https://doi.org/10.2422/2036-2145.202208_004)] [[arXiv version](https://arxiv.org/abs/2207.13745)]
 
-- **Combinatorial Nullstellensatz and Turán numbers of complete r-partite r-uniform hypergraphs**
-  <br>
-  **A. Gordeev**
-  <br>
-  *[arXiv:2307.04447](https://arxiv.org/abs/2307.04447), 2023.*
-  <br>
-  [[PDF](https://arxiv.org/pdf/2307.04447.pdf)]
-
 - **The Alon–Tarsi Number of A Toroidal Grid**
   <br>
   Z. Li, Z. Shao, F. Petrov, **A. Gordeev**
@@ -48,14 +57,6 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   *European Journal of Combinatorics, 111, 103697, 2023.*
   <br>
   [[Link](https://doi.org/10.1016/j.ejc.2023.103697)][[arXiv version](https://arxiv.org/abs/1912.12466)]
-
-- **Erdős–Hajnal problem for H-free hypergraphs**
-  <br>
-  D. Cherkashin, **A. Gordeev**, G. Strukov
-  <br>
-  *[arXiv:2207.05840](https://arxiv.org/abs/2207.05840), to appear in Graphs and Combinatorics.*
-  <br>
-  [[PDF](https://arxiv.org/pdf/2207.05840.pdf)]
 
 - **On list chromatic numbers of 2-colorable hypergraphs**
   <br>
