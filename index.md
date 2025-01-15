@@ -6,7 +6,7 @@ layout: homepage
 
 I am a [postdoc at Umeå University](https://www.umu.se/en/staff/aleksei-gordeev/), working with [Lars-Daniel Öhman](https://www.umu.se/en/staff/lars-daniel-ohman/).
 
-I completed my PhD in 2022 at St.Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/). You can find my thesis (in Russian) [here](https://www.pdmi.ras.ru/pdmi/system/files/dissertations/gordeev_diss.pdf).
+I completed my PhD in 2022 at St.Petersburg Department of V.A. Steklov Institute (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/). You can find my thesis (in Russian) [here](https://www.pdmi.ras.ru/pdmi/system/files/dissertations/gordeev_diss.pdf).
 
 You can find my CV [here](https://c0pymaster.github.io/pdf/CV.pdf).
 
@@ -24,6 +24,14 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
 --->
 
 ## Papers
+
+- **Cayley incidence graphs**
+  <br>
+  A.S. Árnadóttir, **A. Gordeev**, S. Lato, T. Randrianarisoa, J. Vermant
+  <br>
+  *[arXiv:2411.19428](https://arxiv.org/abs/2411.19428), 2024.*
+  <br>
+  [[PDF](https://arxiv.org/pdf/2411.19428)]
 
 - **Combinatorial Nullstellensatz and Turán numbers of complete r-partite r-uniform hypergraphs**
   <br>
@@ -46,7 +54,7 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   <br>
   **A. Gordeev**, Y. Teplitskaya
   <br>
-  *The Annali della Scuola Normale di Pisa - Classe di Scienze, 2023.*
+  *To appear in Annali della Scuola Normale di Pisa - Classe di Scienze, 2023.*
   <br>
   [[Link](https://doi.org/10.2422/2036-2145.202208_004)] [[arXiv version](https://arxiv.org/abs/2207.13745)]
 
