@@ -6,13 +6,14 @@ layout: homepage
 
 I am a [postdoc at Umeå University](https://www.umu.se/en/staff/aleksei-gordeev/), working with [Lars-Daniel Öhman](https://www.umu.se/en/staff/lars-daniel-ohman/).
 
-I completed my PhD in 2022 at St.Petersburg Department of V.A. Steklov Institute (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/). You can find my thesis (in Russian) [here](https://www.pdmi.ras.ru/pdmi/system/files/dissertations/gordeev_diss.pdf).
+I completed my PhD in September 2022 at St.Petersburg Department of V.A. Steklov Institute (PDMI RAS), advised by [Fedor Petrov](https://math-cs.spbu.ru/en/people/petrov-f-v/). You can find my thesis (in Russian) [here](https://www.pdmi.ras.ru/pdmi/system/files/dissertations/gordeev_diss.pdf).
 
 You can find my CV [here](https://c0pymaster.github.io/pdf/CV.pdf).
 
 ## Research Interests
 
-list colorings of graphs and hypergraphs, polynomial method in combinatorics, extremal hypergraph problems, maximal distance minimizers, row-column designs
+row-column designs, polynomial method in combinatorics, extremal hypergraph problems, list coloring and geometric combinatorial optimization
+
 
 <!---
 ## News
@@ -25,6 +26,14 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
 
 ## Papers
 
+- **Near triple arrays**
+  <br>
+  **A. Gordeev**, L.D. Öhman, K. Markström
+  <br>
+  *[arXiv:2503.07166](https://arxiv.org/abs/2503.07166), 2025.*
+  <br>
+  [[PDF](https://arxiv.org/pdf/2503.07166)]
+
 - **Cayley incidence graphs**
   <br>
   A.S. Árnadóttir, **A. Gordeev**, S. Lato, T. Randrianarisoa, J. Vermant
@@ -33,15 +42,15 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   <br>
   [[PDF](https://arxiv.org/pdf/2411.19428)]
 
-- **Combinatorial Nullstellensatz and Turán numbers of complete r-partite r-uniform hypergraphs**
+- **Combinatorial Nullstellensatz and Turán numbers of complete *r*-partite *r*-uniform hypergraphs**
   <br>
   **A. Gordeev**
   <br>
   *Discrete Mathematics, 347(7), 114037, 2024.*
   <br>
-  [[Link](https://doi.org/10.1016/j.disc.2024.114037)] [[arXiv version](https://arxiv.org/abs/2307.04447)]
+  [[Link](https://doi.org/10.1016/j.disc.2024.114037)] [[arXiv version](https://arxiv.org/abs/2307.04447)] [[Corrigendum](https://doi.org/10.1016/j.disc.2025.114417)]
 
-- **Erdős–Hajnal problem for H-free hypergraphs**
+- **Erdős–Hajnal problem for *H*-free hypergraphs**
   <br>
   D. Cherkashin, **A. Gordeev**, G. Strukov
   <br>
@@ -50,11 +59,11 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   [[Link](https://doi.org/10.1007/s00373-023-02737-6)] [[Full text view-only](https://rdcu.be/duCJS)] [[arXiv version](https://arxiv.org/abs/2207.05840)]
 
 
-- **On regularity of maximal distance minimizers in R^n**
+- **On regularity of maximal distance minimizers in *R<sup>n</sup>***
   <br>
   **A. Gordeev**, Y. Teplitskaya
   <br>
-  *To appear in Annali della Scuola Normale di Pisa - Classe di Scienze, 2023.*
+  *Annali della Scuola Normale di Pisa - Classe di Scienze, 2023. In press.*
   <br>
   [[Link](https://doi.org/10.2422/2036-2145.202208_004)] [[arXiv version](https://arxiv.org/abs/2207.13745)]
 
@@ -66,7 +75,7 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   <br>
   [[Link](https://doi.org/10.1016/j.ejc.2023.103697)][[arXiv version](https://arxiv.org/abs/1912.12466)]
 
-- **On list chromatic numbers of 2-colorable hypergraphs**
+- **On list chromatic numbers of *2*-colorable hypergraphs**
   <br>
   D. Cherkashin, **A. Gordeev**
   <br>
@@ -106,6 +115,33 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   <br>
   [[PDF](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i4p11/pdf)] [[Link](https://doi.org/10.37236/7087)]
 
+## Talks
+
+- **On a travelling salesman problem in the unit cube**
+  <br>
+  *[Theory Coffee seminar](https://theory.epfl.ch/coffee/#event_2025_Mon_March_17), EPFL, March 17, 2025.*
+
+- **Non-extremal triple arrays and near-triple arrays**
+  <br>
+  *[Open University Discrete Mathematics Seminar](https://grahameerskine.co.uk/OU/DMSeminars.html), November 27, 2024.*
+  <br>
+  [[Slides](https://grahameerskine.co.uk/OU/Slides/Gordeev.pdf)]
+
+- **Combinatorial Nullstellensatz and the Erdős box problem**
+  <br>
+  *[Algebraic Graph Theory Seminar](https://math.uwaterloo.ca/~agtheory/), University of Waterloo, September 30, 2024.*
+  <br>
+  [[Slides](https://www.math.uwaterloo.ca/~agtheory/Slides/Erdos_box_and_CN.pdf)]
+  <br>
+  *[Synergies of combinatorics and theoretical computer science](https://bernoulli.epfl.ch/comb2024/) workshop, EPFL, August 19, 2024.*
+  <br>
+  [[Recording](https://mediaspace.epfl.ch/media/t/0_pte8ybru/31062)] [[Slides](https://drive.switch.ch/index.php/s/BdzebqB1aAZtkcP/download?path=%2F&files=Alexey%20Gordeev%20-%20slides.pdf)]
+
+- **New non-extremal triple arrays**
+  <br>
+  *[30th British Combinatorial Conference](https://www.qmul.ac.uk/maths/news-and-events/30th-british-combinatorial-conference/), London, July 3, 2024.*
+  <br>
+  [[Book of abstracts](https://webspace.maths.qmul.ac.uk/felix.fischer/bcc/abstracts.pdf)]
 
 ## Teaching
 
@@ -120,6 +156,12 @@ list colorings of graphs and hypergraphs, polynomial method in combinatorics, ex
   [[2 semester](https://c0pymaster.github.io/pdf/Algorithms_II.pdf)]
   [[3 semester](https://c0pymaster.github.io/pdf/Algorithms_III.pdf)]
 
+- **Teacher at the [Summer Informatics Camp](https://sicamp.ru/), Perm, Russia (2013 – 2021)**
+  <br>
+  *Algorithms and Data Structures*
+  <br>
+  a 3 week course with lectures and practice sessions aimed at high school students
+  
 
 <!---
 ## Services
