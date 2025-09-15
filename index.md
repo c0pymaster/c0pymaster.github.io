@@ -12,7 +12,7 @@ You can find my CV [here](https://c0pymaster.github.io/pdf/CV.pdf).
 
 ## Research Interests
 
-row-column designs, polynomial method in combinatorics, extremal hypergraph problems, list coloring and geometric combinatorial optimization
+row-column designs, polynomial method in combinatorics, extremal hypergraph problems, list coloring, geometric combinatorial optimization
 
 
 <!---
@@ -30,7 +30,7 @@ row-column designs, polynomial method in combinatorics, extremal hypergraph prob
   <br>
   **A. Gordeev**, L.D. Öhman, K. Markström
   <br>
-  *[arXiv:2503.07166](https://arxiv.org/abs/2503.07166), 2025.*
+  *[arXiv:2503.07166](https://arxiv.org/abs/2503.07166), 2025. To appear in Journal of Combinatorial Theory, Series A.*
   <br>
   [[PDF](https://arxiv.org/pdf/2503.07166)]
 
@@ -117,6 +117,18 @@ row-column designs, polynomial method in combinatorics, extremal hypergraph prob
 
 ## Talks
 
+- **A Christofides-based approach to the travelling salesman problem in the unit cube**
+  <br>
+  *[Eurocomb'25](https://site.pheedloop.com/event/Eurocomb25/home), Budapest, Hungary, August 28, 2025.*
+  <br>
+  [[Book of extended abstracts](https://site.pheedloop.com/event/Eurocomb25/Abstracts)] [[Slides](https://c0pymaster.github.io/pdf/Eurocomb-TSP-slides-25.pdf)]
+
+- **Near triple arrays**
+  <br>
+  *[Eurocomb'25](https://site.pheedloop.com/event/Eurocomb25/home), Budapest, Hungary, August 25, 2025.*
+  <br>
+  [[Book of extended abstracts](https://site.pheedloop.com/event/Eurocomb25/Abstracts)] [[Slides](https://c0pymaster.github.io/pdf/Eurocomb-NTA-slides-25.pdf)]
+
 - **On a travelling salesman problem in the unit cube**
   <br>
   *[Theory Coffee seminar](https://theory.epfl.ch/coffee/#event_2025_Mon_March_17), EPFL, March 17, 2025.*
@@ -125,23 +137,24 @@ row-column designs, polynomial method in combinatorics, extremal hypergraph prob
   <br>
   *[Open University Discrete Mathematics Seminar](https://grahameerskine.co.uk/OU/DMSeminars.html), November 27, 2024.*
   <br>
-  [[Slides](https://grahameerskine.co.uk/OU/Slides/Gordeev.pdf)]
+  [[Slides](https://c0pymaster.github.io/pdf/OpenU-slides-24.pdf)]
 
 - **Combinatorial Nullstellensatz and the Erdős box problem**
   <br>
   *[Algebraic Graph Theory Seminar](https://math.uwaterloo.ca/~agtheory/), University of Waterloo, September 30, 2024.*
   <br>
-  [[Slides](https://www.math.uwaterloo.ca/~agtheory/Slides/Erdos_box_and_CN.pdf)]
+  [[Slides](https://c0pymaster.github.io/pdf/Waterloo-slides-24.pdf)]
   <br>
   *[Synergies of combinatorics and theoretical computer science](https://bernoulli.epfl.ch/comb2024/) workshop, EPFL, August 19, 2024.*
   <br>
-  [[Recording](https://mediaspace.epfl.ch/media/t/0_pte8ybru/31062)] [[Slides](https://drive.switch.ch/index.php/s/BdzebqB1aAZtkcP/download?path=%2F&files=Alexey%20Gordeev%20-%20slides.pdf)]
+  [[Recording](https://mediaspace.epfl.ch/media/t/0_pte8ybru/31062)] [[Slides](https://c0pymaster.github.io/pdf/EPFL-slides-24.pdf)]
+
 
 - **New non-extremal triple arrays**
   <br>
   *[30th British Combinatorial Conference](https://www.qmul.ac.uk/maths/news-and-events/30th-british-combinatorial-conference/), London, July 3, 2024.*
   <br>
-  [[Book of abstracts](https://webspace.maths.qmul.ac.uk/felix.fischer/bcc/abstracts.pdf)]
+  [[Book of abstracts](https://webspace.maths.qmul.ac.uk/felix.fischer/bcc/abstracts.pdf)] [[Slides](https://c0pymaster.github.io/pdf/BCC-slides-24.pdf)]
 
 ## Teaching
 
